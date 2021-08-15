@@ -14,12 +14,6 @@ String: Hello-Mark_!!;)
 | a |   | ) | k |  
 | l | _ | M | l |  
 
-
-H o r e
-! ! ; -
-a   ) k
-l _ M l
-
 Result: Hore!!;-a )kl_Ml
 
 As you see there are 15 characters in the string, the matrix needs ceil(sqrt(size)) rows and colums, therefore 4 rows and colums. The characters are inserted corner-clockwise.
