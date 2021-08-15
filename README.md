@@ -9,18 +9,10 @@ Corner-Clockwise means that the characters are put clockwise ONLY in the corners
 
 String: Hello-Mark_!!;)
 
-+---+---+---+---+  
-| H | o | r | e |  
-+---+---+---+---+  
-+---+---+---+---+  
+| H | o | r | e |   
 | ! | ! | ; | - |  
-+---+---+---+---+  
-+---+---+---+---+  
 | a |   | ) | k |  
-+---+---+---+---+  
-+---+---+---+---+  
 | l | _ | M | l |  
-+---+---+---+---+  
 
 
 H o r e
